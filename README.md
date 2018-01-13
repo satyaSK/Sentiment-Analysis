@@ -1,2 +1,2 @@
 # Sentiment-Analysis
-Designed a sentiment analysis model using artificial neural nets
+This repo would contain all the projects and exercises related to sentiment analysis. For a simple start, I have only implemented sentiment analysis with ANNs. I will soon be working on the LSTM(using RNNs and also more data) version, touching the more important details and real-world aspects of sentiment analysis in the near future as and when I get the time(I have less time nowadays, as my college work has resumed).
